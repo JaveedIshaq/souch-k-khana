@@ -7,8 +7,8 @@
 Here's a glimpse of our app in action:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="screen-shot-1.jpeg" alt="App Screenshot 1" width="45%"/>
-  <img src="screen-shot-2.jpeg" alt="App Screenshot 2" width="45%"/>
+  <img src="https://raw.githubusercontent.com/JaveedIshaq/souch-k-khana/refs/heads/main/screen-shot-1.jpeg" alt="App Screenshot 1" width="45%"/>
+  <img src="https://raw.githubusercontent.com/JaveedIshaq/souch-k-khana/refs/heads/main/scren-shot-2.jpeg" alt="App Screenshot 2" width="45%"/>
 </div>
 
 ## Flutter Seminar Outline 📚
