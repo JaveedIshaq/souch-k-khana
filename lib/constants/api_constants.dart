@@ -1,1 +1,0 @@
-String geminiApiKey = 'ADD_YOUR_GOOGLE_GEMINI_KEY_HERE';

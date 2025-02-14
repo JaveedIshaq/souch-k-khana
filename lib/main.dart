@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:mobile/constants/constants.dart';
 import 'package:mobile/screens/home_page.dart';
 
 void main() {
@@ -13,9 +14,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Souch K Khana',
+      title: 'Souch k Khana',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Color(0XFFFFA726)),
+        colorScheme: ColorScheme.fromSeed(seedColor: themeColor),
         useMaterial3: true,
       ),
       home: const HomePage(),
