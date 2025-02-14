@@ -80,7 +80,7 @@ Remember: A moment of thought before each meal can lead to a lifetime of good he
 
 A² Skills Academy is a premier tech education institute dedicated to empowering the next generation of developers. Follow us on [Facebook](https://www.facebook.com/asquareskills) to stay updated with our latest courses and events!
 
-## Upcoming Event: Flutter Development Seminar 📱
+## About the Event: Flutter Development Seminar 📱
 
 <div style="text-align: center;">
   <img src="javeed-ishaq.jpg" alt="Javeed Ishaq - Flutter Developer" width="300"/>
