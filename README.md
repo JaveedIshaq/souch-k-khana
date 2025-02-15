@@ -55,7 +55,7 @@ flutter pub get
 ```
 
 3. Add your Google Gemini API key:
-   - Navigate to `lib/constants/api_constants.dart`
+   - Navigate to `lib/constants/constants.dart`
    - Replace `ADD_YOUR_GOOGLE_GEMINI_KEY_HERE` with your actual API key
 
 ### How to Use 📱
